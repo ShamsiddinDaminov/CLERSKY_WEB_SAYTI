@@ -1,0 +1,494 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.kotta_oyna{
+    width: 1440px;
+    height: 98px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+    background: #163A24;
+
+}
+
+.kichik_oyna{
+    display: flex;
+    width: 1180px;
+    height: 58px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
+.clerck__home{
+    margin-left: 550px;
+    margin-top: 20PX;
+}
+.clesk_menyu{
+    color: white;
+    margin-left: 24px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-decoration: none;
+}
+.home__buton{
+    width: 141px;
+    height: 52px;
+    background: #198C36;
+    border-radius: 160px;
+    color: white;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    border: 1px solid #198C36;
+    margin-left: 24px;
+    margin-top: 1px;
+}
+.home__buton:hover{
+    background-color: #163A24;
+    border: 1px solid #163A24 ;
+    transition: all 0.4s ease;
+}
+/* sectishon */
+
+.sectishon{
+    background: #163A24;
+    display: flex;
+    width: 1440px;
+    height: 544px;
+    /* border:  1px solid rebeccapurple; */
+    margin: 0 auto;
+}
+.sectishon__h4{
+    width: 391px;
+    height: 196px;
+    font-family: 'Recoleta';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 65px;
+    margin-top: 121px;
+    margin-left: 130px;
+    color: white;
+}
+.sectishon__title{
+    width: 475px;
+    height: 81px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: white;
+    margin-top: 18px;
+    margin-left: 130px;
+}
+.secshishon_im{
+    margin-left: -80px;
+}
+
+/* Frame */
+
+.frame{
+    width: 1440px;
+    height: 1326px;
+    /* border:  1px solid red; */
+    margin: 0 auto;
+    margin-top: 120px;
+}
+.frema_p{
+    display: flex;
+}
+.frame_img{
+    margin-left: 228px;
+}
+.frame__put{
+    width: 325px;
+    height: 108px;
+    font-family: 'Recoleta';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    margin-top: 148px;
+    margin-left: 99px;
+    color: #163A24;
+
+}
+.frame_title{
+    width: 374px;
+    height: 54px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    margin-left: 99px;
+    margin-top: 27px;
+    color: #163A24;
+
+}
+.fudobol_oyna{
+    display: flex;
+}
+.fudbol__h4{
+    width: 376px;
+    height: 108px;
+    font-family: 'Recoleta';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    margin-left: 228px;
+    margin-top: 115px;
+    color: #163A24;
+}
+.fudbol__title{
+    width: 380px;
+    height: 54px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    margin-left: 228px;
+    margin-top: 27px;
+    color:  #163A24;
+}
+.fudbol__img{
+    margin-left: 118px;
+    margin-top: 13px;
+}
+.we_h4{
+    width: 539px;
+    height: 54px;
+    font-family: 'Recoleta';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    margin-top: 121px;
+    text-align: center;
+    margin-left: 454px;
+    color: #163A24;
+
+}
+.fudbol__logo{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 200px;
+}
+.google{
+    margin-left: 86px;
+}
+
+/* Rectangle */
+
+.Rectangle{
+    width: 1440px;
+    height: 568px;
+    border: 1px solid rebeccapurple;
+    margin: 0 auto;
+    background-color: #163A24;
+}
+
+.HR__h4{
+    width: 823px;
+    height: 54px;
+    font-family: 'Recoleta';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    color: white;
+    margin-left: 320px;
+    margin-top: 66px;
+}
+.Rectangle__img{
+    display: flex;
+    width: 1440px;
+    height: 328px;
+}
+.Rectangle__img1{
+    text-align: center;
+    width: 200px;
+    height:200px;
+    /* border: 1px solid red; */
+    margin-top: 68px;
+    margin-left: 60px;
+}
+.Rectangle__img12{
+    text-align: center ;
+    margin-left: 235px;
+    width: 200px;
+    height:200px;
+    /* border: 1px solid red; */
+    margin-top: 68px;
+}
+.Rectangle__title{
+    margin-top: 28px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: white;
+}
+
+/* Rectangle--1 */
+
+.eplayes__oyna{
+    background-color:  #F2EFE6;
+    width: 1440px;
+    height: 775px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
+
+.eplayes__h4{border-top: 114px;
+    text-align: center;
+    width: 739px;
+    height: 108px;
+    font-family: 'Recoleta';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    margin-left: 335px  ;
+    color: #163A24;
+}
+.eplayes__text{
+    width: 760px;
+    height: 54px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    margin-left: 340px;
+    margin-top: 27px;
+    color: #163A24;
+}
+.eplayes_img{
+    text-align: center;
+}
+.eplayes_img{
+    margin-top: 100px;
+}
+
+/* Frame-1 */
+
+.mijozlaring{
+    width: 1180px;
+    height: 426px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 180px;
+}
+.mijoz_h4{
+    width: 338px;
+    height: 108px;
+    font-family: 'Recoleta';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    color: #163A24;
+    margin-top: 93px;
+    margin-left: 98px;
+}
+.mijoz_p{
+    width: 379px;
+    height: 81px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #163A24;
+    margin-left: 98px;
+    margin-top: 27px;
+}
+.mijozlar_img{
+    margin-left: 156px;
+}
+
+/* Frame-2 */
+
+.conseder{
+    width: 1440px;
+    height: 800px;
+    border:  1px solid rebeccapurple;
+    margin: 0 auto;
+}
+.conseder_best{
+    margin-top: 115px;
+    text-align: center;
+    font-family: 'Recoleta';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    color: #163A24  ;
+}
+.hris_p{
+    text-align: center;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #163A24;
+    margin-top: 26px;
+}
+
+/* Frame-2 */
+
+.birnchi_oyna{
+    background-color: #FBFAF7;
+    width: 354px;
+    height: 394px;
+    /* border:  1px solid  rebeccapurple; */
+    margin-left: 150px;
+    margin-top: 18px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px 0 #E9E4D5;
+}
+
+.ikkinchi_oyna{
+    box-shadow: 5px 5px 20px 0 #E9E4D5;
+    background-color: #FBFAF7;
+    width: 354px;
+    height: 430px;
+    /* border: 1px solid rebeccapurple; */
+    margin-left: 41px;
+    margin-top: 18px;
+    border-radius: 15px;
+}
+.uchunchi_oyna{
+    background-color: #FBFAF7;
+    width: 354px;
+    height: 394px;
+    /* border:  1px solid  rebeccapurple; */
+    margin-left: 40px;
+    margin-top: 18px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px 0 #E9E4D5;
+}
+.katta_oyna{
+    display: flex;
+}
+.nuqta{
+    margin-left: 46px;
+    margin-top: 30px;
+}
+.birnchi_oyna_p{
+    margin-left: 60px
+    ;
+}
+.birinchi_oyna_p{
+    margin-left: 10px;
+}
+.bitimchi_oyna_img{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.birnchi_oyna_p{
+    margin-top: -15px;
+    transition: all 0.2s ease;
+}
+.birnchi_oyna_p:hover{
+    color: #198C36  ;
+    font-size: 18px;
+    transition: all 0.2 s ease;
+}
+.birnchi_oyna_h5{
+    width: 160px;
+    height: 63px;
+    font-family: 'Recoleta';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 32px;
+    color: #163A24;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.ikkinchi_oyna_img{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.ikkinchi_oyna_h5{
+    width: 285px;
+    height: 63px;
+    font-family: 'Recoleta';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 32px;
+    color: #163A24;
+    margin-top: 19px;
+    margin-left: 40px;
+}
+.uchunchi_oyan_img{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.uchunchi_oyna_h5{
+    margin-left: 40px;
+    width:  301px;
+    height: 63px;
+    font-family: 'Recoleta';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 32px;
+    color: #163A24;
+    margin-top: 20px;
+}
+
+/* Rectangle-1 */
+
+.easey_oyna{
+    width: 1440px;
+    height: 602px;
+    border: 1px solid rebeccapurple;
+    margin: 0 auto;
+}
+.MINUTS{
+    width: 262px;
+    height: 141px;
+    border: 1px solid ;
+}
+.MINUTRS_OYNA{
+    display: flex;
+}
+.easey_oyna1_h4{
+    width: 360px;
+    height: 54px;
+    font-family: 'Recoleta';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 47px;
+    line-height: 54px;
+    margin-top: 114px;
+    margin-left: 540px;
+    color: #163A24;
+}
+.easey_p{
+    width: 527px;
+    height: 27px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #163A24;
+    text-align: center;
+    margin-top: 26px;
+    margin-left: 450px;
+}
